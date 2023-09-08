@@ -4,8 +4,8 @@
 import requests
 import json
 
-okta_url = 'https://trial-6453127.okta.com'
-api_token = '00XklPgqNg60NhWwPgYG77pOR0yTckUanKRgysewA3'
+okta_url = 'https://trial-xxxxxx.okta.com'
+api_token = 'api-token'
 
 headers = {
     'Accept': 'application/json',
